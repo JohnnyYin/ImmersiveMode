@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="#ff0000ff">
+    <!--<item-->
+        <!--android:drawable="@android:color/transparent"-->
+        <!--/>-->
+    <!-- 设置内容背景，也就是默认的背景 -->
+    <item
+        android:id="@android:id/content"
+        android:drawable="@drawable/normal_button_bg"/>
+</ripple>
